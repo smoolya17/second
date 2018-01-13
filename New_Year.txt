@@ -2,3 +2,4 @@ print 'Happy New Year'
 
 print 'Have Sweets'
 
+print 'Also have delecacies'
