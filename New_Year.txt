@@ -1,4 +1,4 @@
 print 'Happy New Year'
 
-
+print 'Have Sweets'
 
