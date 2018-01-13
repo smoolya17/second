@@ -1,0 +1,3 @@
+# function to print the current type of year
+
+# function to print the number of days in a year
